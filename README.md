@@ -39,10 +39,10 @@ Authentication and Integrity Checking: Embedding information that can be used to
 
 
 
-| Original Image.jpeg | Stego Image.png |
+| Original image.jpeg | Stego Image.png |
 |:--------:|:-------:|
-| <img src="Original Image.jpeg" alt="Original Image" height = "300" width="400"/> | <img src="Stego Image.png" alt="Stego Image" height = "300" width="400"/> |
-| Original Image | Stego Image |
+| <img src="Original image.jpeg" alt="Original image" height = "300" width="400"/> | <img src="Stego Image.png" alt="Stego Image" height = "300" width="400"/> |
+| Original image | Stego Image |
 
 # Conclusion
 Image steganography is a powerful and versatile technique for hiding information within digital images. Its methods range from simple LSB insertion to more complex frequency domain techniques, each with its own strengths and use cases. The choice of method depends on the specific requirements for robustness, capacity, and imperceptibility.
