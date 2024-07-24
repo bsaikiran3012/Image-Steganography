@@ -41,7 +41,7 @@ Authentication and Integrity Checking: Embedding information that can be used to
 
 | Original image.jpg | Stego Image.jpg |
 |:--------:|:-------:|
-| <img src="Original image.jpeg" alt="Original image" height = "300" width="400"/> | <img src="Stego Image.png" alt="Stego Image" height = "300" width="400"/> |
+| <img src="Original image.jpg" alt="Original image" height = "300" width="400"/> | <img src="Stego Image.jpg" alt="Stego Image" height = "300" width="400"/> |
 | Original Image | Stego Image |
 
 # Conclusion
